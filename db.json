@@ -1,0 +1,168 @@
+{
+  "menuItems": [
+    { "id": 1, "name": "سرور اختصاصی" },
+    { "id": 2, "name": "سرور مجازی" },
+    { "id": 3, "name": "هاست" },
+    { "id": 4, "name": "ثبت دامنه" },
+    { "id": 5, "name": "خدمات ابری " },
+    { "id": 6, "name": "دیگر خدمات " },
+    { "id": 7, "name": "ارتباط با ما" },
+    { "id": 8, "name": "پایگاه دانش" }
+  ],
+  "hotDomains": [
+    { "id": 1, "domain": ".info", "price": "125000" },
+    { "id": 2, "domain": ".com", "price": "450000" },
+    { "id": 3, "domain": ".net", "price": "820000" },
+    { "id": 4, "domain": ".ir", "price": "16000" },
+    { "id": 5, "domain": ".gov", "price": "1000000" },
+    { "id": 6, "domain": ".io", "price": "136000" },
+    { "id": 7, "domain": ".shop", "price": "310000" },
+    { "id": 8, "domain": ".org", "price": "310000" },
+    { "id": 9, "domain": ".site", "price": "313000" },
+    { "id": 10, "domain": ".me", "price": "820000" }
+  ],
+  "socialMedia": [
+    {
+      "id": 1,
+      "title": "aparat",
+      "image": "images/aparat.svg",
+      "path": "/"
+    },
+    {
+      "id": 2,
+      "title": "facebook",
+      "image": "images/facebook.svg",
+      "path": "/"
+    },
+    {
+      "id": 3,
+      "title": "twitter",
+      "image": "images/twitter.svg",
+      "path": "/"
+    },
+    {
+      "id": 4,
+      "title": "linkedin",
+      "image": "images/linkedin.svg",
+      "path": "/"
+    },
+    {
+      "id": 5,
+      "title": "instagram",
+      "image": "images/instagram.svg",
+      "path": "/"
+    },
+    {
+      "id": 6,
+      "title": "telegram",
+      "image": "images/telegram.svg",
+      "path": "/"
+    }
+  ],
+  "plans": [
+    {
+      "id": 1,
+      "icon": "images/dedicated_server.svg",
+      "title": "سرور اختصاصی",
+      "en_title": "DEDICATED SERVER",
+      "description": "منابع اختصاصی، حداکثر قدرت",
+      "options": ["بدون محدودیت در دسترسی", "نصب نرم افزارهای خاص"],
+      "priority": 1,
+      "path": "/"
+    },
+    {
+      "id": 2,
+      "icon": "images/shared_hosting.svg",
+      "title": "هاست اشتراکی",
+      "en_title": "SHARED HOSTING",
+      "description": "چابکی، سادگی و پایداری",
+      "options": [
+        "نصب رایگان سیستم مدیریت سایت",
+        "برای اطمینان بیشتر RAID سیستم",
+        "کنترل‌پنل مدیریت هاست"
+      ],
+      "priority": 2,
+      "path": "/"
+    },
+    {
+      "id": 3,
+      "icon": "images/virtual_server.svg",
+      "title": "سرور مجازی",
+      "en_title": "VPS",
+      "description": "سریع، قابل سفارشی سازی",
+      "options": ["منابع اختصاصی", "امکان افزایش منابع"],
+      "priority": 3,
+      "path": "/"
+    }
+  ],
+  "iranServerCustomerChart": [
+    { "id": 1, "title": "دیتاسنتر در سراسر جهان", "number": "70" },
+    { "id": 2, "title": "مشتری از سراسر ایران", "number": "167000" },
+    { "id": 3, "title": "خدمات ارائه شده", "number": "600000" },
+    { "id": 4, "title": "سال‌ حضور در مارکت", "number": "18" }
+  ],
+  "customerComments": [
+    {
+      "id": 1,
+      "content": "ایران سرور یکی از بهترین راهکارها برای کمک کردن به کسب و کار های اینترنتی هست و از وقتی که ما سایت های خودمون رو به سرور های ایران سرور منتقل کردیم دغدغه ها و...مشکلاتی که هر کسب و کار آنلاینی داره",
+      "name": "مهران منصوری فر",
+      "task": "مدیر وب"
+    },
+    {
+      "id": 2,
+      "content": "ایران سرور یکی از بهترین راهکارها برای کمک کردن به کسب و کار های اینترنتی هست و از وقتی که ما سایت های خودمون رو به سرور های ایران سرور منتقل کردیم دغدغه ها و...مشکلاتی که هر کسب و کار آنلاینی داره",
+      "name": "مهران منصوری فر",
+      "task": "مدیر وب"
+    },
+    {
+      "id": 3,
+      "content": "ایران سرور یکی از بهترین راهکارها برای کمک کردن به کسب و کار های اینترنتی هست و از وقتی که ما سایت های خودمون رو به سرور های ایران سرور منتقل کردیم دغدغه ها و...مشکلاتی که هر کسب و کار آنلاینی داره",
+      "name": "مهران منصوری فر",
+      "task": "مدیر وب"
+    },
+    {
+      "id": 4,
+      "content": "ایران سرور یکی از بهترین راهکارها برای کمک کردن به کسب و کار های اینترنتی هست و از وقتی که ما سایت های خودمون رو به سرور های ایران سرور منتقل کردیم دغدغه ها و...مشکلاتی که هر کسب و کار آنلاینی داره",
+      "name": "مهران منصوری فر",
+      "task": "مدیر وب"
+    },
+    {
+      "id": 5,
+      "content": "ایران سرور یکی از بهترین راهکارها برای کمک کردن به کسب و کار های اینترنتی هست و از وقتی که ما سایت های خودمون رو به سرور های ایران سرور منتقل کردیم دغدغه ها و...مشکلاتی که هر کسب و کار آنلاینی داره",
+      "name": "مهران منصوری فر",
+      "task": "مدیر وب"
+    }
+  ],
+  "customer_icons": [
+    { "id": 1, "image": "images/customers/ahmar.svg" },
+    { "id": 2, "image": "images/customers/alibaba.svg" },
+    { "id": 3, "image": "images/customers/alopeik.svg" },
+    { "id": 4, "image": "images/customers/bazar.svg" },
+    { "id": 5, "image": "images/customers/behdasht.svg" },
+    { "id": 6, "image": "images/customers/bm.svg" },
+    { "id": 7, "image": "images/customers/bmi.svg" },
+    { "id": 8, "image": "images/customers/br.svg" },
+    { "id": 9, "image": "images/customers/digikala.svg" },
+    { "id": 10, "image": "images/customers/divar.svg" },
+    { "id": 11, "image": "images/customers/elm_sanaat.svg" },
+    { "id": 12, "image": "images/customers/neshan.svg" },
+    { "id": 13, "image": "images/customers/novin.svg" },
+    { "id": 14, "image": "images/customers/snapp.svg" },
+    { "id": 15, "image": "images/customers/tw.svg" },
+    { "id": 16, "image": "images/customers/vezarat_naft.svg" },
+    { "id": 17, "image": "images/customers/vezarat_oloum.svg" },
+    { "id": 18, "image": "images/customers/zhakat.svg" },
+    { "id": 19, "image": "images/customers/ahmar.svg" },
+    { "id": 20, "image": "images/customers/alibaba.svg" },
+    { "id": 21, "image": "images/customers/alopeik.svg" },
+    { "id": 22, "image": "images/customers/bazar.svg" },
+    { "id": 23, "image": "images/customers/behdasht.svg" },
+    { "id": 24, "image": "images/customers/bm.svg" },
+    { "id": 25, "image": "images/customers/bmi.svg" },
+    { "id": 26, "image": "images/customers/digikala.svg" },
+    { "id": 27, "image": "images/customers/divar.svg" },
+    { "id": 28, "image": "images/customers/elm_sanaat.svg" },
+    { "id": 29, "image": "images/customers/neshan.svg" },
+    { "id": 30, "image": "images/customers/novin.svg" }
+  ]
+}
