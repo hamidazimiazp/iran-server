@@ -703,12 +703,17 @@ body {
     gap: 20px;
   }
 }
-@media (max-width: 850px) {
+@media (max-width: 965px) {
   .customers-icon-wrapper div {
-    width: calc(50% - 10px);
-    height: auto;
+    width: 200px;
   }
 }
+@media (max-width: 540px) {
+  .customers-icon-wrapper div {
+    width: 150px;
+  }
+}
+
 // ---------------------------------------------> End Main section -- Customers Section  Section
 
 // ---------------------------------------------> Footer section
