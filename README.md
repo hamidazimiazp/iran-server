@@ -1,4 +1,4 @@
-## Iran Server Landing Page Using --> Bootstap & SAASS & Jquery & Webpaack & Swipper & json-server
+## Iran Server Landing Page Using --> Bootstrap & SAASS & Jquery & Webpaack & Swipper & json-server
 
 # Run : 
 
